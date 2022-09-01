@@ -28,7 +28,7 @@ header{
 nav{
     background-color:rgb(30, 28, 28);
     height:50px;
-    border: 1px solid rgb(237, 212, 212);
+    border: 1px solid rgb(237, 212, 215);
 }
 nav ul li{
     float:left;
